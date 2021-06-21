@@ -1,0 +1,12 @@
+fig:nice-fig
+tab:nice-tab
+introduction
+intro
+literature
+methods
+applications
+example-one
+example-two
+final-words
+data-from-a-linear-model
+univ

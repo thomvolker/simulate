@@ -1,0 +1,15 @@
+--- 
+title: "Simulating data in R"
+author: "Thom Volker"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [simulate.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This gitbook contains a guide to simulating data under multiple specifications in R."
+---
+
+# Introduction
+
+This book is work in progress. It is an attempt to structure various ways to generate multivariate data with given effect sizes. Hence, this book aims to show various ways of generating data that meets certain requirements, with continuous and categorical outcome and predictor variables.
